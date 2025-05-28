@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>Maven-Selenium</name>
   <url>http://maven.apache.org</url>
+<dependencies>
   <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
