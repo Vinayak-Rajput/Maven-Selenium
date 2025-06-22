@@ -48,6 +48,6 @@
   			</configuration>
   		</plugin>
   	</plugins>
-  	<finalName>SeleniumApp</finalName>
+  	<finalName>Maven-Selenium</finalName>
   </build>
 </project>
